@@ -5,7 +5,7 @@ title: Home
 
 ## Welcome everyone to my spiffy site!
 
-#This is my new edit!
+## This is my new edit!
 
 
 #### Here are some example pages:
